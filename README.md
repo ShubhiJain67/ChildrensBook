@@ -1,2 +1,2 @@
 # ChildrensBook
-Basi Ebook via HTML CSS and JavaScript
+Basic Ebook via HTML CSS and JavaScript
